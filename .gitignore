@@ -1,0 +1,11 @@
+*.class
+
+### Package Files
+*.jar
+
+target
+.idea
+*.iml
+.DS_Store
+
+**/allure-results
